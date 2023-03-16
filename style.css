@@ -48,7 +48,7 @@ body{
 
 .card_back{
     color: #101c2c;
-    background-color: #05c3ff;
+    background-color: #e02316d0;
     font-size: 30px;
     filter: brightness(1); /* valor entre 0 e 1 */
     
